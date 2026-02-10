@@ -6,7 +6,7 @@ De técnico de bancada a desenvolvedor de software. Minha trajetória começou a
 
 ---
 
-### 🛠️ No que estou focado agora:
+### 🛠️  Focado agora:
 - 🎓 Cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas**.
 - 🐍 Especializando em **Python** para automação e lógica de dados.
 - 🌐 Desenvolvendo interfaces modernas com **JavaScript, HTML5 e CSS3**.
