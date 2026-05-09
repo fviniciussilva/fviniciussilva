@@ -17,6 +17,8 @@ De técnico de bancada a desenvolvedor de software. Minha trajetória começou a
 - **Corrida Urbana:** Game 2D desenvolvido em Java para estudo de POO.
 - **Especialista em Hardware:** Mais de uma década diagnosticando e recuperando sistemas complexos.
 
+- Portfólio : https://fernando-vinicius.vercel.app/
+
 ---
 
 ### 📫 Vamos nos conectar?
