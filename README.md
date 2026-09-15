@@ -7,14 +7,14 @@ De técnico de bancada a desenvolvedor de software. Minha trajetória começou a
 ---
 
 ### 🛠️  Focado agora:
-- 🎓 Cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas**.
-- 🐍 Especializando em **Python** para automação e lógica de dados.
+- 🎓 Cursando o 4º semestre de **Análise e Desenvolvimento de Sistemas**.
+- 🐍 Especializando em **Python** e **Segurança Cibernética** para automação e lógica de dados.
 - 🌐 Desenvolvendo interfaces modernas com ** HTML e CSS**.
-- 🤖 Explorando o uso de **Inteligência Artificial** para acelerar o desenvolvimento.
+- 🤖 Explorando o uso de **Inteligência Artificial Generativa** para acelerar o desenvolvimento e aprendizado.
 
 ### 💼 Experiência & Projetos:
-- **solucellsp:** Solução web para logística de assistência técnica mobile.
-
+- **Bot de estoque em Python** Solução web para logística de assistência técnica mobile.
+  **portfólio pessoal com habilidades em front-end(html,css e javascript)**
 - **Corrida Urbana:** Game 2D desenvolvido em Java para estudo de POO.
 - **Especialista em Hardware:** Mais de uma década diagnosticando e recuperando sistemas complexos.
 
@@ -29,4 +29,4 @@ De técnico de bancada a desenvolvedor de software. Minha trajetória começou a
 
 ---
 
-*"O código é o que faz a máquina ganhar vida, mas a lógica é o que faz o negócio girar."*
+
