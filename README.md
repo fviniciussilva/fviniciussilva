@@ -24,6 +24,10 @@ De técnico de bancada a desenvolvedor de software. Minha trajetória começou n
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+### 🛠️ Suporte Remoto & Ferramentas de Suporte (N1/N2)
+- **Acesso Remoto Avançado:** Domínio em **AnyDesk**, **TeamViewer** e **Quick Assist** para diagnósticos à distância, manutenção preventiva e suporte a usuários.
+- **Gerenciamento de Sessão:** Acesso não supervisionado (Unattended Access), transferência segura de arquivos, execução de scripts remotos e aplicação de modos de privacidade de tela durante manutenções corporativas.
+- **Sistemas & CRM:** Vivência em plataformas CRM (Salesforce), sistemas de agendamento e chamados operacionais.
 
 ### 💼 Projetos em Destaque:
 - **[Solutech Bot / Açaí Flow]**: Automação comercial e gestão de estoque em Python, com dashboards interativos (Streamlit) e geração dinâmica de payloads Pix.
