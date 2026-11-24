@@ -1,6 +1,6 @@
 # Olá, eu sou o Fernando Vinícius! 👋
 
-### Analista de TI & Desenvolvedor de Sistemas em formação | 10+ anos em Hardware
+### Analista de TI & Desenvolvedor de Sistemas em formação | 8+ anos em Hardware
 
 De técnico de bancada a desenvolvedor de software. Minha trajetória começou no diagnóstico físico de máquinas e reparo avançado, e hoje foco em construir automações inteligentes, sistemas web e soluções tecnológicas através do código. Acredito na tecnologia prática, eficiente e focada em resolver problemas reais.
 
@@ -33,7 +33,7 @@ De técnico de bancada a desenvolvedor de software. Minha trajetória começou n
 - **[Solutech Bot / Açaí Flow]**: Automação comercial e gestão de estoque em Python, com dashboards interativos (Streamlit) e geração dinâmica de payloads Pix.
 - **[Portfólio Web Profissional]**: Página moderna em Dark/Neon Theme desenvolvida com Tailwind CSS, apresentando habilidades, trajetória e projetos.
 - **[Corrida Urbana]**: Game 2D desenvolvido em Java para consolidação de conceitos de POO (Herança, Polimorfismo e Interface).
-- **[Soluções SP / Hardware & N2]**: Mais de uma década de atuação em manutenção de bancada, infraestrutura, suporte N1/N2 e diagnósticos complexos.
+- **[Solucell SP / Hardware & N2]**: Mais de uma década de atuação em manutenção de bancada, infraestrutura, suporte N1/N2 e diagnósticos complexos.
 
 🌐 **Acesse meu Portfólio Interativo:** [fernando-vinicius.vercel.app](https://fernando-vinicius.vercel.app/)
 
